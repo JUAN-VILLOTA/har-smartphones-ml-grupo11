@@ -4,6 +4,7 @@ Clasificación supervisada multiclase de seis actividades (caminar, subir escale
 
 - **Curso:** Introducción al Aprendizaje Automático — Universidad de Antioquia, 2026-2
 - **Profesor:** Julián D. Arias-Londoño
+- **Video de la sustentación:** [ver en YouTube](https://www.youtube.com/watch?v=zVwDAa0sTPM)
 - **Integrantes:** Juan David Villota Córdoba y Sammir Alejandro Bolaños Luna
 - **Base de datos:** [Human Activity Recognition Using Smartphones (UCI)](https://doi.org/10.24432/C54S4K): 30 voluntarios, 10 299 ventanas, 561 características, 6 actividades.
 
