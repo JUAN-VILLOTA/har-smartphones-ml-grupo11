@@ -12,7 +12,7 @@ Clasificación supervisada multiclase de seis actividades (caminar, subir escale
 
 | Archivo | Qué contiene |
 | --- | --- |
-| `informe_final.pdf` | Informe final (plantilla IEEE Transactions). |
+| `Informe_Final_Proyecto_Modelos_ll.pdf` | Informe final (plantilla IEEE Transactions). |
 | `Primer_Informe_Modelos_ll.pdf` | Primer informe de avance (descripción del problema y estado del arte). |
 | `01_descripcion_y_eda.ipynb` | Descarga de los datos, revisión de calidad, balance de clases, voluntarios y figura exploratoria. |
 | `02_modelos.ipynb` | Validación por voluntario, ajuste de hiperparámetros de los 5 modelos, comparación en validación y evaluación única en prueba. |
